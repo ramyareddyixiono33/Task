@@ -1,0 +1,828 @@
+.body{
+    margin: -15px 0 0 0;
+    background-color: rgb(50, 5, 69);
+    color: white;
+    width: 1530.38px;
+    height: auto;
+    margin-top: 660px;
+    margin-left: -2px;
+}
+.t10{
+    
+width: 100%;
+height: auto;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 77px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* Title2 */
+
+background: linear-gradient(90deg, #FFFFFF 40.73%, #9164FB 119.98%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+border-inline-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t11{
+    /* Body1/Regular */
+
+
+width: 1140px;
+height: 51px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+border-inline-color: transparent;
+
+margin-left: 60px;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.image3{
+    /* new black card */
+
+
+position: absolute;
+width: 431px;
+height: 266px;
+left: 99px;
+top: 32px;
+
+margin-top: 890px;
+}
+.t12{
+    /* BLACK Platinum Card (X+ ONLY) */
+
+
+    width: 548px;
+    height: 76px;
+    margin-left: 100px;
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.t13{
+    
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+margin-left: 155px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-top: -65px;
+margin-right: 200px;
+}
+.t14{
+    /* $550 USDC */
+
+
+width: 548px;
+height: 51px;
+margin-left: 80px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+margin-top: -25px;
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+border-inline-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.frame{
+    /* Frame 1000005884 */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 32px;
+gap: 97px;
+
+width: 1190px;
+height: 330px;
+margin-left: 60px;
+background: rgba(255, 255, 255, 0.05);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.t15{
+    /* Body1/Regular */
+
+
+width: 548px;
+height: 24px;
+margin-top: -15px;
+margin-left: 100px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.t16{
+    /* Body1/Regular */
+
+
+width: 1140px;
+height: 51px;
+margin-left: 60px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+border-inline-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.frame1{
+    /* Frame 1000005881 */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+margin-left: 60px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 32px;
+gap: 32px;
+
+width: 550px;
+height: 537px;
+
+background: rgba(255, 255, 255, 0.05);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.image4{
+    /* image 202 */
+
+
+width: 451px;
+height: 266px;
+
+margin-top: 50px;
+/* Inside auto layout */
+margin-left: 20px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t17{
+    /* Black Plastic Card (DEGODS) */
+
+
+width: 486px;
+height: 76px;
+margin-top: 30px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t18{
+    /* $250 USDC */
+
+
+width: 486px;
+height: 51px;
+margin-top: -50px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+border-inline-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.t19{
+    width: 486px;
+height: 76px;
+margin-top: -70px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 38px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t20{
+    /* Body1/Regular */
+
+
+width: 486px;
+height: 24px;
+margin-top: -40px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+.frame2{
+      /* Frame 1000005881 */
+box-sizing: border-box;
+
+/* Auto layout */
+margin-left: 700px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 32px;
+gap: 32px;
+
+width: 550px;
+height: 537px;
+margin-top: -535px;
+background: rgba(255, 255, 255, 0.05);
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.image5{
+    /* image 202 */
+
+
+width: 451px;
+height: 266px;
+
+margin-top: 50px;
+/* Inside auto layout */
+margin-left: 20px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.frame3{
+    /* 11 */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 12px;
+margin-top: 100px;
+width: 1140px;
+height: 64px;
+margin-left: 60px;
+background: rgba(255, 255, 255, 0.1);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t21{
+    /* Contact */
+
+
+width: 217px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 24px;
+/* identical to box height, or 120% */
+margin-left: 10px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.frame5{
+    /* Background header */
+
+
+position: absolute;
+left: 22.63%;
+right: 0%;
+top: 0%;
+bottom: 75.57%;
+
+background: rgba(255, 255, 255, 0.05);
+}
+.t22{
+    position: absolute;
+height: 24px;
+left: 31.14%;
+right: 60%;
+top: calc(50% - 24px/2 - 99px);
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+margin-top: 10000px;
+
+color: #FFFFFF;
+}
+.Card6{
+    background-color: rgb(81, 21, 107);
+    /* border-radius: 15px; */
+    margin: 20px 0 0 160px;
+    margin-left: 90px;
+    flex-direction: row;
+    width: 40%;
+}
+.Card7{
+    background-color: rgb(81, 21, 107);
+    width: 25%;
+    height: 180px;
+    margin: 10px 0 0 0;
+    align-items: right;
+    float: center;
+    
+}
+.image00{
+    height: 150px;
+    width: 150px;
+    margin-top: -200px;
+    margin-left: -170px;
+    background-color: #520b68;
+
+}
+.img{
+   
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: -40px;
+    
+}
+.img0{
+
+    height: 130px;
+    width: 150px;
+   margin-left: 60px;
+   margin-top: -200px;
+   
+}
+.img01{
+    height: 130px;
+    width: 150px;
+    margin-left: 290px;
+    margin-top: -155px;
+    
+ }
+ .img02{
+    height: 130px;
+    width: 150px;
+    margin-left: 530px;
+    margin-top: -150px;
+ }
+
+
+
+.t25{
+    background-color: rgb(59, 12, 79);
+    width: 100%;
+height: 45px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+text-align: center;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.image8{
+    border-radius: 10px;
+}
+.Card8{
+    width: 86%;
+    margin: 0px 0 0 158px;
+    height: auto;
+    background-color: rgb(49, 10, 66);
+    text-align: left;
+    float: center;
+    margin-left: 95px;
+}
+.t27{
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #AAAAAA;
+}
+.t28{
+
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 15px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+}
+.hr1{
+    width: 66%;
+    margin: 0 0 0 160px;
+    font-weight: 700;
+}
+.btn3{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+
+position: absolute;
+width: 194px;
+height: 46px;
+/* left: 302px;
+top: 32px; */
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #36145c 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+/* width: 146px;
+height: 14px; */
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height, or 100% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+/* margin: 0 0 0 28%; */
+}
+.btn4{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+
+position: absolute;
+width: 194px;
+height: 46px;
+/* left: 596px;
+top: 32px; */
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height, or 100% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+/* margin: 0 0 0 45%; */
+}
+.btn5{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+
+position: absolute;
+/* width: 194px; */
+height: 46px;
+/* left: 889px;
+top: 32px; */
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+width: 146px;
+/* height: 14px; */
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 8px;
+/* identical to box height, or 100% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+/* margin: 0 0 0 62%; */
+}
+.Card9{
+    display: flex;
+    padding: 2rem;
+    margin: 2rem;
+
+}
+.t29{
+    background-color: rgb(93, 22, 123);
+    /* width: 100px; */
+    margin: 0.5px 0 0 0 ;
+    width: 44px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.hr2{
+    height: 2px;
+    width: 66%;
+    margin: 0 0 0 13%;
+    border: 1.8px solid whitesmoke;
+}
+.t30{
+    background-color: rgb(93, 22, 123);
+    width: 700px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0 0 0 15px;
+
+}
+.t29{
+    margin: 0 0 0 15px;
+}
+.ll2{
+    /* Vector 392 */
+  background-color: white;
+  position: absolute;
+  width: 1263.38px;
+  height: 113px;
+  /* left: -18.01px;
+  top: 541.73px; */
+  margin-left: 100px;
+  background: linear-gradient();
+  transform: rotate(-1);
+  
+   }
+ .t32{
+   background:white;
+   margin-top:10px;
+   color: white;
+ }
+
+
+
+
