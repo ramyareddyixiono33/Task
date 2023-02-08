@@ -6,11 +6,14 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 const Page4= () => {
     return(
         <>
+        <footer className="footer">
+        {/* <section className="footer"> */}
+        <section className="end">
         <section>
      
 
 <Row style={{ display: 'flex', justifyContent: 'space-between', width:'68%' }} className="Card13">
-        <Col xs={4} style={{ width: '200px', height: 'auto' }} className="Card121">
+        <Col xs={4} style={{ width: '200px', height: '100vh' }} className="Card121">
           
             <Card.Body>
               <Card.Title className='t342'><svg width="96" height="12" viewBox="0 0 96 22" fill="none" xmlns="http://www.w3.org/2000/svg" className="ll12">
@@ -20,7 +23,7 @@ const Page4= () => {
             </Card.Body>
           
         </Col>
-        <Col xs={4} style={{ width: '250px', height: 'auto' }} className="Card121">
+        <Col xs={4} style={{ width: '250px', height: '0px' }} className="Card121">
           
             <Card.Body>
               <Card.Title className='t66'>Follow Us</Card.Title>
@@ -63,10 +66,13 @@ const Page4= () => {
       <hr className="hr8"/>
         </section>
         <section className="last">
-        <div style={{ display: 'flex', justifyContent: 'space-between', width:'68%' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', width:'68%',  }}>
         <Card.Text className="t90">Terms and Conditions</Card.Text><Card.Text className="t95">Copyright 2023. Made with ♥ by Solswipe</Card.Text>
         </div>
         </section>
+        </section>
+        {/* </section> */}
+        </footer>
         </>
     )
 }

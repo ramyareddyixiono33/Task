@@ -111,7 +111,7 @@ flex-grow: 0;
 .t37{
     width: 215px;
 height: 28px;
-
+margin-left: -px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
@@ -224,14 +224,18 @@ order: 0;
 flex-grow: 0;
 margin: 10px 0 0 500px;
 }
+
+
 .ll9{
     background-color: rgb(50, 5, 69);
     position: absolute;
-    width: 1520.38px;
-    height: 112px;
+    width:1590.38px;
+    height: 120px;
+    margin-left: 10px;
+    margin-left: -70px;
     /* left: -18.01px; */
     /* top: 10px;   */
-    margin-top: 60px;
+    margin-top: 51px;
     /* margin-left: 10px; */
     background: linear-gradient();
     transform:rotate(-1);
