@@ -34,6 +34,8 @@ const Nav3 = () => {
           
         </Col>
       </Row>
+      </section>
+      <section className='Card100'>
     <div className='t38'>EXPERIENCE SOLSWIPE</div>
     <div className='t39'>- Like Never Before - </div>
     <button className='btn7'>Apply</button>

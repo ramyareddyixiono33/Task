@@ -1,12 +1,13 @@
 .Card16{
     background-color: rgb(50, 5, 69);
     margin: -10px 0 0 0;
-    width:1563px ;
+    width:1520px ;
+    margin-left: 0px;
 }
 .t50{
     width: 1290px;
 height: 77px;
-
+margin-left: 43px;
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 700;
@@ -31,9 +32,9 @@ text-transform: uppercase;
     flex-grow: 0;
 }
 .t51{
-    width: 1140px;
+    width: 1303px;
 height: 24px;
-
+/* margin-left: 200px; */
 font-family: 'Noto Serif Thai';
 font-style: normal;
 font-weight: 600;
@@ -60,8 +61,8 @@ justify-content: center;
 align-items: center;
 padding: 16px 50px;
 gap: 8px;
-
-width: 200px;
+margin-left: 50px;
+/* width: 200px; */
 height: 56px;
 
 /* Solswipe */
@@ -95,21 +96,22 @@ order: 0;
 flex-grow: 0;
 margin: 0 0 0 500px;
 }
+
 .ll10{
     background-color: white;
     position: absolute;
-    width: 1593.98px;
+    width: 1430.98px;
     height: 122px;
     /* left: -18.01px; */
      /* top: 5px;   */
      margin: 0px 0 0 0;
-    margin-top: 0px;
+    margin-top: -1px;
     transform: rotate(-1);
 }
 .t55{
     background:white;
-    width: 1263.38px;
-    height: 20px;
-    margin-top:10px;
-    color: white;
+     width: 1263.38px; 
+     height: 2px;
+    margin-top:0px; 
+    color:white;
 }
