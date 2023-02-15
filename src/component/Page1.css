@@ -5,7 +5,7 @@
     width: 1510.38px;
     height: auto;
     margin-top: 660px;
-    margin-left: px;
+    margin-left: 0px;
   
 }
 .t10{
@@ -640,7 +640,7 @@ justify-content: center;
 align-items: center;
 padding: 16px 24px;
 gap: 8px;
-margin-left: -200px;
+margin-left: -90px;
 position: absolute;
 width: 194px;
 height: 46px;
@@ -679,7 +679,7 @@ justify-content: center;
 align-items: center;
 padding: 16px 24px;
 gap: 8px;
-margin-left: -200px;
+margin-left: -70px;
 position: absolute;
 width: 194px;
 height: 46px;
@@ -715,7 +715,7 @@ justify-content: center;
 align-items: center;
 padding: 16px 24px;
 gap: 8px;
-margin-left: -200px;
+margin-left: -60px;
 position: absolute;
 /* width: 194px; */
 height: 46px;
@@ -751,7 +751,7 @@ flex-grow: 0;
     display: flex;
     padding: 2rem;
     margin: 2rem;
-
+    margin-left: 100px;
 }
 .t29{
     background-color: rgb(93, 22, 123);
@@ -786,7 +786,7 @@ flex-grow: 0;
 }
 .t30{
     background-color: rgb(93, 22, 123);
-    width: 700px;
+    width: 850px;
 height: 24px;
 
 font-family: 'Noto Serif Thai';

@@ -6,10 +6,9 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 const Page4= () => {
     return(
         <>
-        <footer className="footer">
-        {/* <section className="footer"> */}
-        <section className="end">
-        <section>
+    
+        <section className="footer">
+          <section>
      
 
 <Row style={{ display: 'flex', justifyContent: 'space-between', width:'68%' }} className="Card13">
@@ -56,23 +55,23 @@ const Page4= () => {
 </defs>
 </svg>
 
-
+<i class="bi bi-twitter"></i>
 
               </Card.Text>
             </Card.Body>
           
         </Col>
       </Row>
-      <hr className="hr8"/>
         </section>
         <section className="last">
-        <div style={{ display: 'flex', justifyContent: 'space-between', width:'68%',  }}>
+        <hr className="hr8"/>
+        <div style={{ display: 'flex', justifyContent: 'space-between', width:'78%',  }}>
         <Card.Text className="t90">Terms and Conditions</Card.Text><Card.Text className="t95">Copyright 2023. Made with ♥ by Solswipe</Card.Text>
         </div>
         </section>
         </section>
-        {/* </section> */}
-        </footer>
+    
+     
         </>
     )
 }

@@ -2,10 +2,10 @@
     background-color: rgb(50, 5, 69);
     margin: -10px 0 0 0;
     width:1520px ;
-    margin-left: 0px;
+    margin-left: 1px;
 }
 .t50{
-    width: 1290px;
+    width: 1350px;
 height: 77px;
 margin-left: 43px;
 font-family: 'Noto Serif Thai';
@@ -32,7 +32,7 @@ text-transform: uppercase;
     flex-grow: 0;
 }
 .t51{
-    width: 1303px;
+    width: 1360px;
 height: 24px;
 /* margin-left: 200px; */
 font-family: 'Noto Serif Thai';
@@ -66,7 +66,7 @@ gap: 8px;
 text-align: center;
 width: 208px;
 height: 56px;
-margin-left: 580px;
+margin-left: 615px;
 /* Solswipe */
 
 background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
@@ -79,17 +79,7 @@ order: 1;
 flex-grow: 0;
 }
 
-.ll10{
-    background-color: white;
-    position: absolute;
-    width: 1475.98px;
-    height: 122px;
-    /* left: -18.01px; */
-     /* top: 5px;   */
-     margin: 0px 0 0 0;
-    margin-top: -1px;
-    transform: rotate(-1);
-}
+
 .t55{
     background:white;
      width: 1263.38px; 
