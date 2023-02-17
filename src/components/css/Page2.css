@@ -1,0 +1,609 @@
+.page2{
+    position: absolute;
+    width: 1515px;
+    height: 2722.27px;
+    left: 0px;
+    top: 863px;
+    background-color: rgb(50, 5, 69);
+}
+
+.page2 .division1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 72px;
+    width: 1140px;
+    height: 1216px;
+    }
+.division1 .title1{
+   
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: -1px;
+    background: linear-gradient(90deg, #FFFFFF 40.73%, #9164FB 119.98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-left: 335px;
+}
+
+.division1 .card1{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 1140px;
+height: 405px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.card1 p{
+    width: 1140px;
+height: 51px;
+margin-left: 190px;
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+
+.card1 .frame1{
+    /* display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center; */
+padding: 32px;
+gap: 97px;
+width: 1140px;
+height: 330px;
+background: rgba(255, 255, 255, 0.05);
+border-radius: 16px;
+margin-left: 150px;
+}
+
+.frame1 .col2{
+    /* display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 548px;
+height: 175px; */
+float: right;
+margin-top: -250px;
+}
+
+.frame1 .col2 h1{
+    /* width: 548px; */
+    height: 76px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.frame1 .col2 h2{
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+/* width: 548px; */
+height: 51px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+
+}
+
+.frame1 .col2 p{
+   
+    width: 548px;
+height: 24px;
+
+
+margin-left: 10px;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+}
+
+.division1 .card2{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 1140px;
+height: 612px;
+}
+
+.card2 p{
+   
+}
+
+.card2 .frame2{
+    box-sizing: border-box;
+    padding: 32px;
+    margin-left: 150px;
+    width: 550px;
+    height: 537px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+}
+
+.card2 .frame3{
+    box-sizing: border-box;
+    width: 550px;
+    height: 537px;
+    padding: 32px;
+    margin-top: -554px;
+    margin-left: 795px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+}
+
+.frame2 .row2{
+ 
+    padding: 0px;
+
+}
+
+.frame2 .row2 h1{
+    font-family: 'Noto Serif Thai';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.frame2 .row2 h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+    text-align: center;
+    font-family: 'Noto Serif Thai';
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.frame2 .row2 p{
+    width: 486px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 0px;
+
+}
+
+.frame3 .row2 h1{
+    font-family: 'Noto Serif Thai';
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.frame3 .row2 h2{
+    font-family: 'Noto Serif Thai';
+    font-size: 32px;
+    line-height: 51px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.frame3 .row2 p{
+    width: 486px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 0px;
+
+}
+
+/* --------------------------division2---------------------------------- */
+
+.page2 .division2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    width: 1140px;
+    height: 1056.27px;
+}
+
+.division2 .card3{
+    box-sizing: border-box;
+    padding: 20px;
+    width: 1191px;
+    height: 64px;
+    background: rgba(255, 255, 255, 0.1);
+    margin-left: 150px;
+    margin-top: 250px;
+}
+
+.division2 .card3 p{
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: -1px;
+}
+
+.division2 .card4{
+    
+    width: 1191px;
+    height: 262px;
+    margin-left: 150px;
+    margin-top: 1px;
+    box-sizing: border-box;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.card4 .part1{
+    padding: 0px;
+    width: 258px;
+    height: 262px;
+    margin-left: -20px;
+    margin-top: -22px;
+    background: rgba(255, 255, 255, 0.05);
+
+}
+.card4 .part2{
+    
+    position: absolute;
+    height: 65px;
+    width: 933px;
+    left: 22.63%;
+    right: 0%;
+    top: 0%;
+    bottom: 75.57%;
+    margin-top: 1529px;
+    margin-left: 66px;
+    background: rgba(255, 255, 255, 0.05);
+}
+.card4 .part2 h1{
+    font-family: 'Noto Serif Thai';
+    font-weight: 600;
+    font-size: 16px;
+    top: 10px;
+    margin-left: 90px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+.card4 .part2 h2{
+   
+    font-family: 'Noto Serif Thai';
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top:-29px;
+}
+.card4 .part2 h3{
+    
+    position: absolute;
+    right: 7.63%;
+    top:0px;
+    font-family: 'Noto Serif Thai';
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    right: 93px;
+
+}
+
+.part2 .col1{
+    position: absolute;
+    width: 323px;
+    height: 198px;
+    left: 0px;
+    top: 64px;
+    
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.part2 .col1 .image3{
+    position: absolute;
+width: 185px;
+height: 114px;
+left: 55px;
+top: 17px;
+}
+
+.part2 .col2{
+    position: absolute;
+width: 313px;
+height: 198px;
+left: 323px;
+top: 64px;
+
+background: rgba(255, 255, 255, 0.05);
+}
+
+.part2 .col2 .image4{
+    position: absolute;
+width: 185px;
+height: 114px;
+left: 53.5px;
+top: 17px;
+}
+
+.part2 .col3{
+    position: absolute;
+width: 295px;
+height: 198px;
+left: 636px;
+top: 64px;
+
+background: rgba(255, 255, 255, 0.05);
+}
+
+.part2 .col3 .image2{
+    position: absolute;
+width: 185px;
+height: 114px;
+left: 55px;
+top: 17px;
+}
+
+
+.division2 .card5{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 1140px;
+height: 730.27px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.card5 .line1{
+   
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64px;
+}
+.card5 .line2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+    
+    width: 1139px;
+    height: 64px;
+    
+    border-top: 1px solid #AAAAAA;
+}
+
+.card5 .line3{
+  
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 88px;
+
+border-top: 1px solid #AAAAAA;
+}
+.card5 .line4{
+   
+
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 88px;
+
+border-top: 1px solid #AAAAAA;
+}
+.card5 .line5{
+ 
+
+/* Auto layout */
+
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64.09px;
+
+border-top: 1px solid #AAAAAA;
+}
+.card5 .line6{
+ 
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64.09px;
+
+border-top: 1px solid #AAAAAA;
+}
+.card5 .line7{
+   
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64.09px;
+
+border-top: 1px solid #AAAAAA;
+}
+.card5 .line8{
+   
+
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64.09px;
+
+border-top: 1px solid #AAAAAA;
+}
+/* .card5 .line9{
+   
+
+padding: 20px;
+gap: 10px;
+
+width: 1139px;
+height: 64.09px;
+
+border-top: 1px solid #AAAAAA;
+} */
+/* .line8 .card6{
+   
+width: 781px;
+height: 46px;
+left: 302px;
+top: 32px;
+} */
+.card6 .button3{
+width: 194px;
+height: 46px;
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+margin-left: 302px;
+}
+.card6 .button4{
+ 
+width: 194px;
+height: 46px;
+/* margin-left: 496px; */
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+}
+.card6 .button5{
+    
+width: 194px;
+height: 46px;
+left: 889px;
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+}
+.line9 .card7{
+    /* display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px 20px;
+gap: 12px; */
+margin-left: -20px;
+width: 1180px;
+height: 110px;
+
+background: rgba(255, 255, 255, 0.04);
+border-top: 1px solid #AAAAAA;
+
+/* Inside auto layout */
+
+flex: none;
+order: 8;
+flex-grow: 0;
+}
+.line9 .card7 h1{
+    width: 44px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+}
+.line9 .card7 p{
+    
+color: #AAAAAA;
+}
+
+.x2{
+    position: absolute;
+width: 1515.45px;
+height: 128px;
+left: 0px;
+top: 3548.52px;
+
+background:rgb(50, 5, 69);
+transform: rotate(-180.31deg);
+}

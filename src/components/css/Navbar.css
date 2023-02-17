@@ -1,0 +1,39 @@
+.navbar{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1440px;
+    height: 82px;
+    /* left: 150px; */
+    top: 0px;
+    
+    background: #FFFFFF;
+
+}
+.navbar .left_section{
+ display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 20px;
+width: 309.35px;
+height: 29.19px;
+/* left: 150px; */
+top: 30px;
+
+}
+.navbar .right_section {
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 92px;
+height: 44px;
+left: 1194px;
+top: 19px;
+color: #FFFFFF;
+background: #000000;
+border-radius: 8px;
+}
+
+
+

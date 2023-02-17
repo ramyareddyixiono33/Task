@@ -1,0 +1,259 @@
+.page3{
+  
+    padding: 150px 0px;
+    position: absolute;
+    width: 1440px;
+    height: 806px;
+    top: 3675px;
+}
+.page3 .title2{
+    
+    height: 77px;
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #000000 0%, #CBCBCB 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+}
+
+.page3 .row1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+/* width: 1124px; */                            
+height: 357px;
+}
+
+.page3 .row1 .frame1{
+   display: flex;
+flex-direction: row;
+align-items: flex-start;
+
+gap: 40px;
+
+
+}
+.page3 .frame1 .card11{
+    box-sizing: border-box;
+   
+
+width: 348px;
+height: 118px;
+
+border: 1px solid #AAAAAA;
+border-radius: 16px;
+}
+
+.page3 .card11 h1{
+    width: 300px;
+height: 26px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #AAAAAA;
+}
+
+.page3 .frame1 .card11 p{
+    width: 300px;
+    height: 28px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+ 
+    
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    
+}
+
+
+.page3 .frame1 .card2{
+    box-sizing: border-box;
+   
+
+width: 348px;
+height: 118px;
+
+border: 1px solid #AAAAAA;
+border-radius: 16px;
+
+}
+
+.page3 .card2 h1{
+    width: 300px;
+    height: 26px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #AAAAAA;
+}
+
+.page3 .card2 p{
+    width: 300px;
+    height: 28px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+   
+    
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
+
+
+.page3 .frame1 .card3{
+    box-sizing: border-box;
+
+
+width: 348px;
+height: 118px;
+
+border: 1px solid #AAAAAA;
+border-radius: 16px;
+}
+
+.page3 .card3 h1{
+    width: 300px;
+    height: 26px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #AAAAAA;
+}
+
+.page3 .card3 p{
+    width: 300px;
+    height: 28px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+.row1 .text3{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 776px;
+height: 83px;
+}
+.row1 .text3 h1{
+    width: 776px;
+    height: 51px;
+    
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 51px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    
+   
+    
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.row1 .text3 p{
+    width: 776px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-top: -20px;
+
+text-align: center;
+
+color: #AAAAAA;
+}
+.button6{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 147px;
+height: 56px;
+color: white;
+background: #000000;
+border-radius: 8px;
+margin-bottom: 10px;
+
+
+}
+
+.x3{
+    position: absolute;
+    height: 105.32px;
+    left: 0.61px;
+    top: 4419.76px;
+    width: 1515px;
+background: rgb(50, 2, 69);
+transform: rotate(0.13deg);
+}

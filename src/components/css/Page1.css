@@ -1,0 +1,88 @@
+.page1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left_section{
+    /* position: absolute; */
+    /* width: 463px;
+    left: 150px;
+    top: 100px; */
+    width: 50%;
+}
+
+.left_section h1{
+    width: 463px;
+    height: 154px;
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+
+/* TitleDegods */
+
+background: linear-gradient(90deg, #000000 0%, #CBCBCB 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+text-fill-color: transparent;
+}
+.left_section h6{
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+font-family: 'Noto Serif Thai';
+
+transform: matrix(1, 0, -0.28, 0.96, 0, 0);
+}
+.left_section p{
+    color: #AAAAAA;
+  
+}
+.right_section {
+    position: relative;
+    /* width: 889.18px;
+    height: 759.39px; */
+    left: 840.32px;
+    top: 112px;
+}
+
+.page1 .button2{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 200px;
+height: 56px;
+color:white;
+background: #000000;
+border-radius: 8px;
+}
+
+.x1{
+ 
+width: 1515.38px;
+height: 123px;
+left: -18.01px;
+top: 841.73px;
+margin-top: 318px;
+color:white;
+background:rgb(50, 2, 69);
+
+
+}
+
+@media (min-width:320px){
+    .navbar .right_section{
+        flex-direction:column ;
+    }
+}

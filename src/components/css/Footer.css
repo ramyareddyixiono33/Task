@@ -1,0 +1,79 @@
+.footer{
+    position: absolute;
+
+height: 424px;
+left: 0px;
+top: 5126px;
+/* background-color: red; */
+}
+
+
+
+.footer .row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    margin-top: 10px;
+    width: 1140px;
+    height: 110px;
+}
+
+.row1 .left_section1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    
+    width: 447px;
+    height: 110px;
+}
+.footer .left_section1 h1{
+    width: 96px;
+height: 22px;
+
+color: #000000;;
+}
+.footer .row1 .left_section1 p{
+    width: 447px;
+height: 72px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #AAAAAA;
+}
+.card .row1 .right_section1{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 136px;
+height: 70px;
+}
+
+.footer .row1.right_section1 h1{
+    width: 81px;
+height: 22px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+
+
+text-transform: uppercase;
+
+color: #AAAAAA;
+}

@@ -1,0 +1,58 @@
+.page4{
+ 
+    padding: 150px 0px;
+    background-color:rgb(50, 2, 69);
+    position: absolute;
+    width: 1515px;
+    height: 350px;
+    top: 4521px;
+
+}
+.page4 .title3{
+    font-family: 'Noto Serif Thai';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #FFFFFF 40.73%, #9164FB 119.98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.page4 .text4{
+    
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #AAAAAA;
+}
+
+.page4 .button7{
+   
+    padding: 16px 50px;
+    margin-left: 650px;
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.x4{
+    position: absolute;
+/* width: 1469.72px;
+height: 112.25px; */
+left: -476.95px;
+top: 5080.86px;
+
+/* background: #FFFFFF; */
+transform: rotate(-179.9deg);
+}
