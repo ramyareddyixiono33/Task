@@ -12,16 +12,15 @@ function Footer() {
                 </div>
                 <div className='right_section1'>
                     <h1>FOOLOW US</h1>
-                    
+                    <div className='icons'>
+                        <i class="bi bi-twitter"></i>
+                        <i class="bi bi-telegram"></i>
+                    </div>
                 </div>
             </div>
             <div className='row2'>
-                <div className='left_section'>
-
-                </div>
-                <div className='right_section'>
-    
-                </div>
+                <div className='left_section'>Terms and Conditions</div>
+                <div className='right_section'>Copyright 2023. Made with ♥ by Solswipe</div>
             </div>
         {/* </div> */}
 

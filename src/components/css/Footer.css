@@ -1,10 +1,7 @@
 .footer{
-    position: absolute;
+    
+    width: 100%;
 
-height: 424px;
-left: 0px;
-top: 5126px;
-/* background-color: red; */
 }
 
 
@@ -16,64 +13,92 @@ top: 5126px;
     align-items: center;
     padding: 0px;
     gap: 10px;
-    margin-top: 10px;
-    width: 1140px;
-    height: 110px;
+    width: 100%;
 }
 
 .row1 .left_section1{
     display: flex;
+    padding: 0px;
+   
+}
+
+.footer .left_section1 h1{
+    width: 96px;
+    height: 22px;
+    color: #000000;
+}
+
+.footer .row1 .left_section1 p{
+    width: 447px;
+    height: 72px;
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #AAAAAA;
+}
+
+.card .row1 .right_section1{
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
-    gap: 16px;
-    
-    width: 447px;
-    height: 110px;
-}
-.footer .left_section1 h1{
-    width: 96px;
-height: 22px;
-
-color: #000000;;
-}
-.footer .row1 .left_section1 p{
-    width: 447px;
-height: 72px;
-
-font-family: 'Noto Serif Thai';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 24px;
-/* or 171% */
-
-
-color: #AAAAAA;
-}
-.card .row1 .right_section1{
-    display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 24px;
-
-width: 136px;
-height: 70px;
+    gap: 24px;
+    width: 136px;
+    height: 70px;
 }
 
 .footer .row1.right_section1 h1{
     width: 81px;
-height: 22px;
+    height: 22px;
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #AAAAAA;
+}
 
+.footer .right_section1 .icons {
+    position: absolute;
+    left: 3.91%;
+    right: 1.49%;
+    top: 11.45%;
+    bottom: 11.64%;
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+
+}
+
+.footer .row2{
+    border: 1px solid #000000;
+}
+
+.footer .row2 .left_section{
+   
+
+    font-family: 'Noto Serif Thai';
+   
+    font-size: 14px;
+    line-height: 22px;
+  
+    
+    background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.footer .row2 .right_section{
+    
 font-family: 'Noto Serif Thai';
-font-style: normal;
-font-weight: 700;
+
 font-size: 14px;
-line-height: 22px;
 
 
-text-transform: uppercase;
+text-align: right;
 
 color: #AAAAAA;
+
 }
