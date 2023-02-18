@@ -685,9 +685,9 @@ color: #AAAAAA;
 .card5 .line8{
 
 
-
-/*padding: 20px;*/
-/*gap: 10px;*/
+display: flex;
+padding: 20px;
+gap: 10px;
 
 /*width: 1139px;*/
 /*height: 64.09px;*/
@@ -714,7 +714,7 @@ top: 32px;
 } */
 .card6 .button3{
 /*width: 194px;*/
-/*height: 46px;*/
+height: 46px;
 background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
 border-radius: 8px;
 /*margin-left: 302px;*/
@@ -722,7 +722,7 @@ border-radius: 8px;
 .card6 .button4{
 
 /*width: 194px;*/
-/*height: 46px;*/
+height: 46px;
 /* margin-left: 496px; */
 background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
 border-radius: 8px;
@@ -730,7 +730,7 @@ border-radius: 8px;
 .card6 .button5{
 
 /*width: 194px;*/
-/*height: 46px;*/
+height: 46px;
 /*left: 889px;*/
 background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
 border-radius: 8px;
@@ -802,9 +802,11 @@ transform: rotate(-180.31deg);
     }
 }
 
+
+
 @media (max-width: 780px) {
     .card4 .part1 {
-        width: 150px;
+        width: 150%;
     }
 
     .card1 .frame1  {
@@ -812,6 +814,7 @@ transform: rotate(-180.31deg);
     }
 
     .card1 .frame1 .col1 {
+        flex-direction: column;
         width: 100%;
     }
 }
@@ -824,7 +827,44 @@ transform: rotate(-180.31deg);
         margin-top: 20px;
     }
 
-    .division2 .card5 .p1{
+    .division2 .card5 p{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .division2 .card5 .line1{
+        flex-direction: column;
+    }
+    .division2 .card5 .line2{
+        flex-direction: column;
+    }
+    .division2 .card5 .line3{
+        flex-direction: column;
+    }
+    .division2 .card5 .line4{
+        flex-direction: column;
+    }
+    .division2 .card5 .line5{
+        flex-direction: column;
+    }
+    .division2 .card5 .line6{
+        flex-direction: column;
+    }
+    .division2 .card5 .line7{
+        flex-direction: column;
+    }
+    .division2 .card5 .line8{
+        flex-direction: column;
+    }
+
+    .division2 .card5 > div .card6{
+        flex-direction: column;
+    }
+
+    .division2 .card6 .button3{
+        flex-direction: column;
+    }
+    .division2 .card5 .line9{
         flex-direction: column;
     }
 }
@@ -849,3 +889,13 @@ transform: rotate(-180.31deg);
         width: 100%;
     }
 }
+
+@media (max-width:1082px){
+    .page2{
+        width: 100%;
+    }
+}
+
+
+
+

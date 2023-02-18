@@ -6,7 +6,7 @@
 }
 
 .page1 .left_section {
-    width: 50%;
+    width: 45%;
 }
 
 .page1 .left_section h1 {
@@ -68,7 +68,7 @@
     /*margin-top: 318px;*/
     color:white;
     background:rgb(50, 2, 69);
-    margin-bottom: -4px;
+    margin-bottom: -5px;
     width: 100%;
     height: auto;
 }
