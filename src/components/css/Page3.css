@@ -1,12 +1,16 @@
 .page3{
-  
-    padding: 150px 0px;
-    width: 100%;
+
+    /*padding: 150px 0px;*/
+    /*position: absolute;*/
+    /*width: 1440px;*/
+    /*height: 806px;*/
+    /*top: 3675px;*/
+    padding: 0 100px;
    
 }
 .page3 .title2{
-    
-   
+
+    /*height: 77px;*/
     font-family: 'Noto Serif Thai';
     font-style: normal;
     font-weight: 700;
@@ -14,144 +18,206 @@
     line-height: 77px;
     text-align: center;
     letter-spacing: -1px;
-  
+    text-transform: uppercase;
     background: linear-gradient(90deg, #000000 0%, #CBCBCB 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
-
+    margin: 40px 20px;
 }
 
 .page3 .row1{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 0px;
-    gap: 50px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+/* width: 83%; */
+/*padding: 0px;*/
+/*gap: 50px;*/
 
-/* width: 1124px; */                            
-/* height: 357px; */
+/*!* width: 1124px; *!                            */
+/*height: 357px;*/
 }
 
 .page3 .row1 .frame1{
    display: flex;
-   gap: 40px;
-    /* width: 99%; */
-    padding: 20px 80px;
+/*flex-direction: row;*/
+align-items: center;
+    justify-content: center;
 
+gap: 40px;
 }
+
+.page3 .row1 .frame1 > div {
+    padding: 10px;
+}
+
 .page3 .frame1 .card11{
-    
-    /* width: 30%; */
-    border: 1px solid #AAAAAA;
-    border-radius: 16px;
+    /*box-sizing: border-box;*/
+
+
+width: 348px;
+/*height: 118px;*/
+
+border: 1px solid #AAAAAA;
+border-radius: 16px;
 }
 
 .page3 .card11 h1{
-    
+/*    width: 300px;*/
+/*height: 26px;*/
+
 font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
 font-size: 16px;
+line-height: 26px;
+/* identical to box height */
+
+
 color: #AAAAAA;
 }
 
 .page3 .frame1 .card11 p{
-    width: 300px;
+    /*width: 300px;*/
+    /*height: 28px;*/
+
     font-family: 'Noto Serif Thai';
+    font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
+
+
     letter-spacing: -1px;
     text-transform: uppercase;
+
     color: #000000;
-    
-    
+
+
 }
 
 
 .page3 .frame1 .card2{
-   
+    box-sizing: border-box;
+    margin: 0 20px;
+
+
+width: 348px;
+/*height: 118px;*/
 
 border: 1px solid #AAAAAA;
 border-radius: 16px;
 
 }
 
-.page3 .card2 h1{
-    /* width: 300px;
-    height: 26px; */
-    
-    font-family: 'Noto Serif Thai';
-    /* font-style: normal;
-    font-weight: 600; */
-    font-size: 16px;
-    /* line-height: 26px; */
-    /* identical to box height */
-    
-    /* text-transform: uppercase; */
-    
-    color: #AAAAAA;
-}
-
-.page3 .card2 p{
-    width: 300px;
-    height: 28px;
-    
+.page3 .frame1 > div p {
     font-family: 'Noto Serif Thai';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
-   
+    /* identical to box height, or 140% */
     
     letter-spacing: -1px;
     text-transform: uppercase;
     
     color: #000000;
+  
     
 }
 
+.page3 .card2 h1{
+   
+
+    font-family: 'Noto Serif Thai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #AAAAAA;
+}
+
+
+
 
 .page3 .frame1 .card3{
+/*    box-sizing: border-box;*/
+
+
+width: 348px;
+/*height: 118px;*/
 
 border: 1px solid #AAAAAA;
 border-radius: 16px;
 }
 
 .page3 .card3 h1{
-    width: 300px;
-    height: 26px;
+    /*width: 300px;*/
+    /*height: 26px;*/
+
     font-family: 'Noto Serif Thai';
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 26px;
+    /* identical to box height */
+
     text-transform: uppercase;
+
     color: #AAAAAA;
 }
 
 .page3 .card3 p{
-    width: 300px;
-    height: 28px;
+    /*width: 300px;*/
+    /*height: 28px;*/
+
     font-family: 'Noto Serif Thai';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
+    /* identical to box height, or 140% */
+
     letter-spacing: -1px;
     text-transform: uppercase;
+
     color: #000000;
 }
 
 .row1 .text3{
-   
-    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+/*align-items: flex-start;*/
+/*padding: 0px;*/
+/*gap: 8px;*/
 
+/*width: 776px;*/
+/*height: 83px;*/
+    margin-top: 40px;
 }
 .row1 .text3 h1{
+    /*width: 776px;*/
+    /*height: 51px;*/
+
     font-family: 'Noto Serif Thai';
+    font-style: normal;
     font-weight: 600;
+    font-size: 32px;
+    line-height: 51px;
+    text-align: center;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+
+
+
     background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -160,48 +226,55 @@ border-radius: 16px;
 }
 
 .row1 .text3 p{
-    text-align: center;
-    color: #AAAAAA;
+/*    width: 776px;*/
+/*height: 24px;*/
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-top: -20px;
+
+text-align: center;
+
+color: #AAAAAA;
 }
 .button6{
- 
-    padding: 16px 50px;
-    color: white;
-    background: #000000;
-    border-radius: 8px;
+    display: flex;
+flex-direction: row;
+    align-items: center;
+    justify-content: center;
+color: white;
+background: #000000;
+border-radius: 8px;
+margin-bottom: 10px;
+padding: 20px 40px;
+    width: fit-content;
 
 }
 
-.x3{
-    position: absolute;
-    height: 105.32px;
-    left: 0.61px;
-    top: 4419.76px;
-    width: 1515px;
+.page3_svg .x3{
+    /*position: absolute;*/
+    /*height: 105.32px;*/
+    /*left: 0.61px;*/
+    /*top: 4419.76px;*/
+    /*width: 1515px;*/
 background: rgb(50, 2, 69);
 transform: rotate(0.13deg);
+    width: 100%;
+    height: auto;
+    margin-bottom: -6px;
+    margin-top: 30px;
 }
 
-@media (max-width:420px){
-    .page3{
-        flex-direction: column;
-    }
+@media (max-width: 760px) {
     .page3 .row1 .frame1 {
-        flex-direction: column;
+        flex-wrap: wrap;
         width: 100%;
-        padding: 10px 90px;
     }
-    .page3 .frame1 .card11{
-        flex-direction: column;
-        
+
+    .page3 .row1 .frame1 > div {
+        margin-bottom: 10px;
     }
-    .page3 .frame1 .card2{
-      
-    }
-    .page3 .frame1 .card3{
-       
-    } 
-    .button6{
-        flex-direction: column;
-    } 
 }

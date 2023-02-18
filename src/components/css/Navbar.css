@@ -1,10 +1,10 @@
 .navbar{
     box-sizing: border-box;
-    background: #fff;
+    background: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 100px;
+    padding: 10px 150px;
 }
 
 .navbar .left_section {
@@ -17,7 +17,7 @@
 
 .navbar .right_section button {
     padding: 10px 20px;
-    background: black;
+    background:black;
     border-radius: 4px;
     color: #fff;
 }

@@ -2,11 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px 100px;
+    padding: 40px 150px;
 }
 
 .page1 .left_section {
-    width: 40%;
+    width: 50%;
 }
 
 .page1 .left_section h1 {
@@ -37,7 +37,7 @@
 }
 
 .page1 .right_section {
-    width: 50%;
+    flex: 1;
 }
 
 .page1 .right_section img {
@@ -59,9 +59,18 @@
     border-radius: 8px;
 }
 
-.x1 {
+.page1_svg .x1 {
 
+    /*width: 1515.38px;*/
+    /*height: 123px;*/
+    /*left: -18.01px;*/
+    /*top: 841.73px;*/
+    /*margin-top: 318px;*/
+    color:white;
     background:rgb(50, 2, 69);
+    margin-bottom: -4px;
+    width: 100%;
+    height: auto;
 }
 
 @media (max-width: 800px) {
